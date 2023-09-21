@@ -1,5 +1,6 @@
 # IPK
-projekt do předmětu Počítačové komunikace a sítě 2018
+projekt do předmětu Počítačové komunikace a sítě 2018.
+
 doporučuju si přečíst dokumentaci, byl jsem celkem vtipálek.
 
 # Zadání projektu
